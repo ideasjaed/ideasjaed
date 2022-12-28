@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jazlino" target="blank"><img src="https://img.shields.io/twitter/follow/jazlino?logo=twitter&style=for-the-badge" alt="jazlino" /></a> </p>
 
-- 🔭 I’m currently working on [Asistensi](https://www.asistensi.com/)
+- 🔭 I’m currently working on [Mercado Libre](https://www.mercadolibre.com/)
 
 - 🌱 I’m currently learning **Next.js, React Native**
 
